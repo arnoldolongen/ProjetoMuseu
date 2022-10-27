@@ -1,3 +1,3 @@
 # Projeto Museu
- Projeto ficticio para tetar habilidades em css!
+ Projeto ficticio para testar habilidades em css!
 
